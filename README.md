@@ -13,9 +13,9 @@
   <em> Full-Stack Developer | AI and ML Enthusiast | CSE 2025 Graduate from Vellore Institute of Technology, Ap</em>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kviswas1621.kviswas1621&left_text=Profile%20views" />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kviswas1621/count.svg" />
+</p>
 
 ---
 
