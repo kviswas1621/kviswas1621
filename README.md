@@ -9,11 +9,11 @@
 
 <h1 align="center">Hey 👋, I'm <a href="https://www.linkedin.com/in/viswaskomati/" target="_blank">Komati Viswas</a></h1>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=kviswas1621 alt=kviswas1621/> </p>
+<div>
+  <p align="left"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=https://komarev.com/ghpvc/?username=kviswas1621 alt=kviswas1621/> </p>
+</div>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/kviswas1621/count.svg" alt="Visitor count" />
-</p>
+
 
 ---
 
