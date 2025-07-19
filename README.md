@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/kviswas1621/count.svg" />
+  <img src="https://profile-counter.glitch.me/kviswas1621/count.svg" alt="Visitor count" />
 </p>
 
 ---
