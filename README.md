@@ -7,7 +7,7 @@
 </div>
 -->
 
-<h1 align="center">Hey 👋, I'm <a href="https://www.linkedin.com/in/viswaskomati/" target="_blank">Komati Viswas</a></h1>
+<h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/viswaskomati/" target="_blank">Komati Viswas</a></h1>
 
 <div>
   <p align="left"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=https://komarev.com/ghpvc/?username=kviswas1621 alt=kviswas1621/> </p>
