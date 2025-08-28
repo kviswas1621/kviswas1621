@@ -7,7 +7,7 @@
 </div>
 -->
 
-<h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/viswaskomati/" target="_blank">vk</a></h1>
+<h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/viswaskomati/" target="_blank">Komati Viswas</a></h1>
 
 
 <h4 align="left">💻 Currently Working On:</h4>
@@ -40,15 +40,29 @@
 </div>
 
 ---
+
 <h3 align="left">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vkdev456&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=vkdev456&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kviswas1621&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=kviswas1621&theme=dark&hide_border=true" height="150" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkdev456&theme=dark&hide_border=true&layout=compact" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kviswas1621&theme=dark&hide_border=true&layout=compact" height="200" />
 </div>
+
+---
+<h3 align="left">📜 Certifications</h3>
+
+- [Full Stack Web Development – Apna College](https://drive.google.com/file/d/19vpoe5eGGFKXoS7gBKgP3ikBOWn1-vWE/view?usp=sharing)  
+- [DSA – Apna College](https://drive.google.com/file/d/1DmpWEqBPhVsgApkf2RBfUTRK6W1WL1V0/view?usp=sharing)  
+
+---
+
+<h3 align="left">📫 Contact Me</h3>
+
+- 📧 Email: kviswas1216@gmail.com  
+- 🔗 LinkedIn: [viswaskomati](https://linkedin.com/in/viswaskomati)  
